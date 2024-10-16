@@ -1,0 +1,6 @@
+{
+    "codecheck.ExcludeDirectory": "",
+    "codecheck.ScanDirectory": "",
+    "codecheck.allRule": true,
+    "codecheck.disabledRules": []
+}
